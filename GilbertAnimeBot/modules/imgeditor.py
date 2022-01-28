@@ -447,9 +447,4 @@ async def cb_handler(client: pbot, query: CallbackQuery):
 
 
 __mod_name__ = "IMAGE-EDITOR📸"
-__help__ = f"""
-Serema have some advanced image editing tools inbuilt
-Bright, Circle, RemBG, Blur, Border, Flip, Glitch, Sticker maker and more
-  ❦ `/edit [reply to image]`*:* Open the image editor
-  ❦ `/rmbg [REPLY]`*:* Revove BG of replied image/sticker.
-"""
+__help__ = '\x1fSerema have some advanced image editing tools inbuilt\x1fBright, Circle, RemBG, Blur, Border, Flip, Glitch, Sticker maker and more\x1f  ❦ `/edit [reply to image]`*:* Open the image editor\x1f  ❦ `/rmbg [REPLY]`*:* Revove BG of replied image/sticker.\x1f'
